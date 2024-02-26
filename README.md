@@ -1,4 +1,4 @@
-**Name of your app** is an app that allows users to register an account, log in, show a feed of posts when  users log in, can upload new posts from library and includes captions. App Additionally stays logged in when closed and is able to logout.
+BeReal is an app that allows users to register an account, log in, show a feed of posts when  users log in, can upload new posts from library and includes captions. App Additionally stays logged in when closed and is able to logout.
 
 Time spent: 8 hours spent in total
 
