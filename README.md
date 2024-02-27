@@ -26,9 +26,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/1a3e4f8e61a84c7a9c0e1f46ea92dd85">
+      <p>Simulator - iPhone 15 Pro - 27 February 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1a3e4f8e61a84c7a9c0e1f46ea92dd85">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1a3e4f8e61a84c7a9c0e1f46ea92dd85-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
