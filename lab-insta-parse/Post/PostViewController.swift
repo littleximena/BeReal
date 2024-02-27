@@ -136,7 +136,7 @@ extension PostViewController: PHPickerViewControllerDelegate {
 
            // Check for and handle any errors
            if let error = error {
-               self?.showAlert(for: error)
+               self?.showAlert(description: error.localizedDescription)
               return
            } else {
 
