@@ -1,5 +1,4 @@
 Mobile App Dev - App Brainstorming 1
-
 ===
 
 Favorite Existing Apps - List
