@@ -1,53 +1,56 @@
-Mobile App Dev - App Brainstorming 1
+Be Real is an app that allows users to register an account, log in, show a feed of posts when  users log in, can upload new posts from library and includes captions. App Additionally stays logged in when closed and is able to logout.
 
-===
+Time spent: 8 hours spent in total
 
-Favorite Existing Apps - List
+## Required Features
 
-1. Google Chrome:
-    Search for Posts
-    Search for Images
-2. WhatsApp:
-    Chat with friends
-    Join Special Activities
-3. Gmail:
-    Task Completion
-    Emails Send Outs
-4. Goodnotes:
-    Can write with pencil
-    Has a variety of paper templates
-5. Health:
-    Calories you burn
-    How much you sleep/track your sleep
-    Cardio Health
-6. Stocks:
-    Shows how market is doing.
-    Can give tips on investment.
-    Shows new on the current state of the economy
-7. Canvas:
-    Tabs for important features
-    Calendar for events/deadliens
-8. Spotify:
-    Collection of music
-    Search Bar
-9. Youtube:
-    Infinite Scroll on Videos
-    Subscription Feature
-10. Instagram:
-    Shows recent activity
-    Archives posts
-11. Snapchat:
-    Creates temporary images
-    Generates stories
-12. Tik Tok:
-    Generates endless scroll of videos
-    Allows for filters on social media app
-13. Reddit:
-    Upvote/Downvote
-    Nested Comments
-14. Discord:
-    Voice Channels
-    Screen Share
-15. Zoom:
-    Video Stream
-    Chat
+The following **required** functionality is completed:
+
+- [X] User can register a new account
+- [X] User can log in with newly created account
+- [X] App has a feed of posts when user logs in
+- [X] User can upload a new post which takes in a picture from photo library and a caption	
+
+The following **optional** features are implemented:
+
+- [ ] Users can pull to refresh their feed and see a loading indicator
+- [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
+- [ ] Users can see location and time of photo upload in the feed	
+- [X] User is able to logout
+- [X] User stays logged in when app is closed and open again	
+
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
+## Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/1a3e4f8e61a84c7a9c0e1f46ea92dd85">
+      <p>Simulator - iPhone 15 Pro - 27 February 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1a3e4f8e61a84c7a9c0e1f46ea92dd85">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1a3e4f8e61a84c7a9c0e1f46ea92dd85-with-play.gif">
+    </a>
+  </div>
+
+## Notes
+
+There was an error message that had an additional for statement which I could not figure out, but I was able to get it resolved.
+
+## License
+
+    Copyright [2024] [Ximena Fernandez]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
