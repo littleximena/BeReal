@@ -1,6 +1,6 @@
 # Project 6 - *Be Real Pt.2*
 
-Submitted by: **Ximena Fernandez*
+Submitted by: **Ximena Fernandez**
 
 **Be Real** is an app that allows users to register an account, log in, show a feed of posts when  users log in, can upload new posts from camera and includes captions. App Additionally stays logged in when closed and is able to logout.
 
